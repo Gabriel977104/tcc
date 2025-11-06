@@ -32,7 +32,7 @@ def get_youtube_video_info(video_url):
             return None
         
         # Usar a mesma API key do analyzer
-        api_key = 'AIzaSyAhuLhdz2mCl9DraB3SKRVHa54viddeS08'
+        api_key = 'AIzaSyAhuLhdz2mtdtydtykdytdkydtyHa54viddeS08'
         
         # Chamar YouTube Data API v3
         youtube_api_url = f"https://www.googleapis.com/youtube/v3/videos"
