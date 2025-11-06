@@ -322,7 +322,7 @@ def analyze_youtube():
 
         # Executar script de coleta
         env = os.environ.copy()
-        env['YOUTUBE_API_KEY'] = 'AIzaSyAhuLhdz2mCl9DraB3SKRVHa54viddeS08'
+        env['YOUTUBE_API_KEY'] = 'AIzaSyAhuLhdz2gyfyfyfy9DraB3SKRVHa54viddeS08'
 
         output_path = '/tmp/youtube_comments.json'
 
